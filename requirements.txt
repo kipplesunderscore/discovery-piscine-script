@@ -1,0 +1,5 @@
+pandas
+ratelimit
+python-dotenv
+xlsxwriter
+requests-cache
