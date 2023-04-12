@@ -1,0 +1,10 @@
+* Readme
+
+#+begin_src sh
+pip install -r requirements.txt
+#+end_src
+
+#+begin_src sh
+chmod +x discoverypiscine_fixed.py
+./discoverypiscine_fixed.py
+#+end_src
