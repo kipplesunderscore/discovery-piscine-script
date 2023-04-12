@@ -1,5 +1,8 @@
 * Readme
 
+Script has many variable settings towards the top of the script which you should look at and set accordingly.
+
+
 #+begin_src sh
 pip install -r requirements.txt
 #+end_src
